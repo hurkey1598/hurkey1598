@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and ethical hacking
 - 🌱 I’m currently learning the basics as im still young and plan on pursuing a career in sofware development 
 - 💞️ I’m not currently looking to collaborate on anything
-- 📫 How to reach me instagram @morgano159800
+- 📫 How to reach me instagram @hurkey159800
 
 <!---
 hurkey1598/hurkey1598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

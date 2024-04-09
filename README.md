@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hurkey1598
-- 👀 I’m interested in web development and ethical hacking
+- 👀 I’m interested in web development and software development 
 - 🌱 I’m currently learning the basics as im still young and plan on pursuing a career in software development 
 - 💞️ I’m not currently looking to collaborate on anything
 - 📫 I can be contacted at my email williamsm1598@tutnota.com
